@@ -11,11 +11,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-=======
->>>>>>> parent of 37c8e36 (Updates)
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
