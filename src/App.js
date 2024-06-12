@@ -36,7 +36,7 @@ export default function App() {
             VM-O Scanner Updates Page
           </Typography>
           <Typography variant="h6" component="h2" textAlign="center" sx={{ mb: 2 }}>
-            Development has been resumed! <br></br>
+            The DEMO is up!! Let's go see! <Link href="https://ozjuly19.github.io/vmo-frontend/">(click here)</Link> <br></br>
             Check out the updates on the frontend below.
           </Typography>
           <CommitHistory />
